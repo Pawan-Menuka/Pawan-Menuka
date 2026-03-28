@@ -46,14 +46,14 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pawan-Menuka&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=10)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pawan-Menuka&show_icons=true&theme=radical&hide_border=true&border_radius=10)](https://github.com/Pawan-Menuka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Menuka&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/Pawan-Menuka)
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pawan-Menuka&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Pawan-Menuka/Pawan-Menuka/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -81,6 +81,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff69b4&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Pawan-Menuka&color=ff69b4&style=flat-square)
 
 </div>
