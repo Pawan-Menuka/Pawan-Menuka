@@ -41,7 +41,6 @@
 </div>
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -71,13 +70,11 @@
 
 ### 🐍 Contribution Graph
 
-
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Pawan-Menuka/Pawan-Menuka/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Pawan-Menuka/Pawan-Menuka/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
 
 <div align="center">
 
