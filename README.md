@@ -51,33 +51,9 @@
 
 <div align="center">
 
-[![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pawan-Menuka&show_icons=true&theme=radical&hide_border=true&border_radius=10)](https://github.com/Pawan-Menuka)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Menuka&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/Pawan-Menuka)
+[![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pawan-Menuka&show_icons=true&theme=radical&hide_border=true&border_radius=10&cache_seconds=1800)](https://github.com/Pawan-Menuka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Menuka&layout=compact&theme=radical&hide_border=true&border_radius=10&cache_seconds=1800)](https://github.com/Pawan-Menuka)
 
 </div>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pawan-Menuka&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Pawan-Menuka/Pawan-Menuka/refs/heads/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Pawan-Menuka&color=ff69b4&style=flat-square)
-
-</div>
