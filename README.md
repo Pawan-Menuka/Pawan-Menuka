@@ -71,15 +71,13 @@
 
 ### 🐍 Contribution Graph
 
+
 <div align="center">
+
 ![Snake animation](https://raw.githubusercontent.com/Pawan-Menuka/Pawan-Menuka/output/github-contribution-grid-snake-dark.svg)
-</div>
----
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Pawan-Menuka&color=ff69b4&style=flat-square)
+
 </div>
 
----
 
 <div align="center">
 
