@@ -7,7 +7,7 @@
 </div>
 
 ---
-
+<img width="55%" align="right" alt="Coding" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 ### 🧑‍💻 About Me
 
 - 🔭 Currently building full-stack web apps and exploring scalable architectures
