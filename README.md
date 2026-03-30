@@ -1,13 +1,17 @@
 <div align="center">
 
 # Hey 👋 What's Up?
-
-### Full-Stack Developer | SE Undergraduate @ SLIIT
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=702cf6&center=true&vCenter=true&width=530&lines=Software+Engineering+Undergrad;Full-Stack+Web+Developer;Building+AI+Future" alt="Typing SVG" />
 </div>
-
+ 
+## Full-Stack Developer | SE Undergraduate @ SLIIT
+ 
+</div>
+ 
 ---
-<img width="55%" align="right" alt="Coding" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="20%" align="right" alt="Coding" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="220" />
+
 ### 🧑‍💻 About Me
 
 - 🔭 Currently building full-stack web apps and exploring scalable architectures
