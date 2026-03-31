@@ -3,6 +3,7 @@
 # Hey 👋 What's Up?
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=702cf6&center=true&vCenter=true&width=530&lines=Software+Engineering+Undergrad;Full-Stack+Web+Developer;Building+AI+Future" alt="Typing SVG" />
+  
 </div>
  
 ## Full-Stack Developer | SE Undergraduate @ SLIIT
