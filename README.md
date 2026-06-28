@@ -54,11 +54,6 @@
 
 </div>
 
-<div align="center">
 
-[![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pawan-Menuka&show_icons=true&theme=radical&hide_border=true&border_radius=10&cache_seconds=1800)](https://github.com/Pawan-Menuka)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Menuka&layout=compact&theme=radical&hide_border=true&border_radius=10&cache_seconds=1800)](https://github.com/Pawan-Menuka)
-
-</div>
 
 ---
