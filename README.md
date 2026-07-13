@@ -2,7 +2,7 @@
 
 # Hey 👋 What's Up?
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=702cf6&center=true&vCenter=true&width=530&lines=Software+Engineering+Undergrad;Full-Stack+Web+Developer;Building+AI+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=702cf6&center=true&vCenter=true&width=530&lines=Software+Engineering+Undergrad;Full-Stack+Web+Developer;Blockchain+Enthusiast" alt="Typing SVG" />
   
 </div>
  
