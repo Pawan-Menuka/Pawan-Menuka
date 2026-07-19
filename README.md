@@ -19,7 +19,7 @@
 - 🌱 Learning **Blockchain development** + deepening my **distributed systems** knowledge
 - ⚙️ Love working across the stack — from database design to UI polish
 - 🤝 Open to collaborations on **startups**, **web apps** & interesting side projects
-- 🎯 Fun fact: I run businesses alongside university — because why not? 🚀
+- 🎯 Fun fact: I run businesses alongside university — because why not? 
 
 ---
 
