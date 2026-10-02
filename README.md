@@ -48,6 +48,15 @@
 ---
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawan-Menuka&theme=dracula&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pawan-Menuka&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Menuka&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="180em" />
+</p>
+
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pawan-Menuka&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
